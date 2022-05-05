@@ -41,7 +41,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ### `npx json-server -p 3500 -w data/db.json`
 
-starts the local db
+Starts the local db
 
 ## Learn More
 
